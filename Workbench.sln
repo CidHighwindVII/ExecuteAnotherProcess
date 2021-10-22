@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workbench", "Workbench\Workbench.csproj", "{B3E29EE4-B7E0-4B23-9A59-8CD8A1144495}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenBrowser", "OpenBrowser\OpenBrowser.csproj", "{7F075AB9-3398-4F36-9F08-EA2CECC60E3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3E29EE4-B7E0-4B23-9A59-8CD8A1144495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E29EE4-B7E0-4B23-9A59-8CD8A1144495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E29EE4-B7E0-4B23-9A59-8CD8A1144495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E29EE4-B7E0-4B23-9A59-8CD8A1144495}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F075AB9-3398-4F36-9F08-EA2CECC60E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F075AB9-3398-4F36-9F08-EA2CECC60E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F075AB9-3398-4F36-9F08-EA2CECC60E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F075AB9-3398-4F36-9F08-EA2CECC60E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {315CFA75-5378-4DE3-9943-2DAAFF97D522}
+	EndGlobalSection
+EndGlobal
